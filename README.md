@@ -1,4 +1,4 @@
-# Guide to Bitz Miner CLI on Eclipse WITH ATFCRYPTO 
+# Guide to Bitz Miner CLI on Eclipse WITH ATF CRYPTO AIRDROP
 
 
 ## Install Dependecies
