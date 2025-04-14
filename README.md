@@ -1,4 +1,4 @@
-# Guide to Bitz Miner CLI on Eclipse
+# Guide to Bitz Miner CLI on Eclipse WITH ATFCRYPTO 
 
 
 ## Install Dependecies
